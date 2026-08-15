@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.xumo.todo",
+    "sha256_cert_fingerprints": ["2A:C0:43:98:20:49:BB:6E:F1:43:60:13:2A:A9:C4:5E:3D:F6:03:F7:5E:39:02:58:BB:05:A2:71:79:68:B7:7E"]
+  }
+}]
